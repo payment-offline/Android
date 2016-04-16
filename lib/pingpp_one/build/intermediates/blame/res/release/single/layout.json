@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/release/layout/fragment_pay_way_dialog.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/res/layout/fragment_pay_way_dialog.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/release/layout/pingpp_activity_pay.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/res/layout/pingpp_activity_pay.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/release/layout/pingpp_pay_channel_item.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/res/layout/pingpp_pay_channel_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/release/layout/pingpp_activity_pay_successed.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/res/layout/pingpp_activity_pay_successed.xml"
+    }
+]

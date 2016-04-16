@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/release/anim/dialog_enter.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/res/anim/dialog_enter.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/release/anim/dialog_exit.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/res/anim/dialog_exit.xml"
+    }
+]

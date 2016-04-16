@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_disable.png",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_disable.png"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_next.png",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_next.png"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/wallet_base_indicator_arrow.png",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/wallet_base_indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_radio_sel.png",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_radio_sel.png"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_next.png",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_next.png"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_radio_bg.png",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_radio_bg.png"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_bg.png",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_bg.png"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_disable.png",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_disable.png"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/wallet_base_indicator_arrow.png",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/wallet_base_indicator_arrow.png"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_bg.png",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_bg.png"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_check_sel.png"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_radio_sel.png",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_radio_sel.png"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ebpay_pwdpay_radio_bg.png",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ebpay_pwdpay_radio_bg.png"
+    }
+]

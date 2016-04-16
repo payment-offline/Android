@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/pingpp_activity_pay.xml",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/pingpp_activity_pay.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/pingpp_activity_pay_successed.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/pingpp_activity_pay_successed.xml"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/fragment_pay_way_dialog.xml",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/fragment_pay_way_dialog.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/pingpp_activity_pay.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/pingpp_activity_pay.xml"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/pingpp_activity_pay_successed.xml",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/pingpp_activity_pay_successed.xml"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/pingpp_pay_channel_item.xml",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/pingpp_pay_channel_item.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/fragment_pay_way_dialog.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/fragment_pay_way_dialog.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/res/merged/androidTest/debug/layout/pingpp_pay_channel_item.xml",
+        "source": "/Users/sunny/pingpp-android/lib/pingpp_one/build/intermediates/bundles/debug/res/layout/pingpp_pay_channel_item.xml"
+    }
+]

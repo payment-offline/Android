@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/color/wallet_base_dialog_btntext_color_selector.xml",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/color/wallet_base_dialog_btntext_color_selector.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/color/wallet_base_dialog_btntext_color_selector.xml",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/color/wallet_base_dialog_btntext_color_selector.xml"
+    },
+    {
+        "merged": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/color/wallet_base_click_text_color.xml",
+        "source": "/Users/sunny/pingpp-android/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/color/wallet_base_click_text_color.xml"
+    },
+    {
+        "merged": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/res/merged/androidTest/debug/color/wallet_base_click_text_color.xml",
+        "source": "/Users/sunny/AndroidStudioProjects/PaymentOffline/lib/bdwallet_pay_sdk/build/intermediates/bundles/debug/res/color/wallet_base_click_text_color.xml"
+    }
+]
